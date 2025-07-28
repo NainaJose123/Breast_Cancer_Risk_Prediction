@@ -1,7 +1,6 @@
-Breast-cancer-risk-prediction
-
 Welcome to my GitHub repository on Using Predictive Analytics model to diagnose breast cancer.
 Objective:
+
 The repository is a learning exercise to:
 
 Apply the fundamental concepts of machine learning from an available dataset
